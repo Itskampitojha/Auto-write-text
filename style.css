@@ -1,0 +1,18 @@
+{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: royalblue;
+    color:white;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "poppins", sans-serif;
+    margin: 0;
+    min-height: 100vh;
+
+    
+
+}
